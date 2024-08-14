@@ -38,15 +38,15 @@ class HeaderWidget extends StatelessWidget {
                       fontFamily: "UthmanicHafs13"),
                 ),
                 Center(
-                    child: Text(
-                  textAlign: TextAlign.center,
-                  getSurahNameArabic(e["surah"]),
+                    child:RichText(text:  TextSpan(text:                 e["surah"].toString(),
+
+                  // textAlign: TextAlign.center,
                   style: const TextStyle(
-                    fontFamily: "uthmanic",
-                    fontSize: 22,
+                    fontFamily: "arsura",
+                    fontSize: 22,color: Colors.black
              
                   ),
-                )),
+                ))),
                 Text(
                   "ترتيبها\n${e["surah"]}",
                   textAlign: TextAlign.center,

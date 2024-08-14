@@ -206,7 +206,15 @@ class _QuranPageState extends State<QuranPage> {
                             style: TextStyle(
                                 fontSize: 14,
                                 color: Colors.grey.withOpacity(.8)),
-                          ),
+                          ),trailing: RichText(text:  TextSpan(text:                suraNumber.toString(),
+
+                  // textAlign: TextAlign.center,
+                  style: const TextStyle(
+                    fontFamily: "arsura",
+                    fontSize: 22,color: Colors.black
+             
+                  ),
+                )),
                           onTap: () async {
                             Navigator.push(
                                 context,
