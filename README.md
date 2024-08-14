@@ -12,11 +12,12 @@ This project is a [brief description of what your project does].
 
 Here are some screenshots of the project:
 
-![Screenshot 1](assets/screenshot1.png)
-*Screenshot 1*
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshot2.png" alt="Screenshot 2" width="300">
+  <img src="assets/screenshot1.png" alt="Screenshot 1" width="300">
 
-![Screenshot 2](assets/screenshot2.png)
-*Screenshot 2*
+</div>
+
 
 ## Installation
 
