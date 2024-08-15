@@ -2,11 +2,11 @@
 
 ## Introduction
 
-(https://www.youtube.com/watch?v=s_6cvcFVP54)
+[![Watch the video](https://img.youtube.com/vi/s_6cvcFVP54/hqdefault.jpg)](https://www.youtube.com/watch?v=s_6cvcFVP54&t=964s)
 
 ## Project Overview
 
-This project is a [brief description of what your project does].
+This project is a quran app using flutter and qcf font.
 
 ## Screenshots
 
