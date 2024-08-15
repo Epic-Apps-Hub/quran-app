@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![Watch the video]](https://www.youtube.com/watch?v=s_6cvcFVP54&t=964s)
+(https://www.youtube.com/watch?v=s_6cvcFVP54)
 
 ## Project Overview
 
