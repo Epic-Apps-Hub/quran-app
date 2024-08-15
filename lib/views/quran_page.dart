@@ -359,7 +359,7 @@ class _QuranViewPageState extends State<QuranViewPage> {
                                                                               .sp
                                                                           : 22.4
                                                                               .sp
-                                                                      : 23.2.sp,
+                                                                      : 23.1.sp,
                                                               backgroundColor:  Colors.transparent,
                                                             ),
                                                             children: const <TextSpan>[

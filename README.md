@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![Watch the video](https://img.youtube.com/vi/s_6cvcFVP54/hqdefault.jpg)](https://www.youtube.com/watch?v=s_6cvcFVP54&t=964s)
+[![Watch the video]](https://www.youtube.com/watch?v=s_6cvcFVP54&t=964s)
 
 ## Project Overview
 
